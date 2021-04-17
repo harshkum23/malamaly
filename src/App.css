@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+}
+.hye {
+  background-color: #f2f2f2;
+  width: 400px;
+  height: 800px;
+  position: re lative;
+}
+.one {
+  margin: 40px;
+  padding: 30px;
+  text-decoration: none;
+  margin-top: 120px;
+}
+.a {
+  margin-left: 90px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  font-size: 12px;
+  color: #f05538;
+}
+.b {
+  width: 250px;
+
+  margin-left: 350px;
+  display: flex;
+  position: static;
+  bottom: 400px;
+  flex: 0.3;
+  display: inline;
+  margin-bottom: 500px;
+}
+.c {
+  margin-left: 350px;
+  margin-top: 30px;
+}
+.d {
+  margin-left: 5px;
+}
+.e {
+  margin-left: 350px;
+  margin-top: 30px;
+}
+.f {
+  margin-left: 350px;
+  text-decoration: line-through;
+  color: green;
+}
+.g {
+  margin-left: 350px;
+
+  color: #1d446e;
+}
